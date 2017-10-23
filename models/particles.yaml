@@ -1,0 +1,5 @@
+# put the paths to actual data here!
+# positron: '/Users/elenaorlova/CaloGAN/data/eplus.hdf5'
+# pion: '/Users/elenaorlova/CaloGAN/data/piplus.hdf5'
+# gamma: '/Users/elenaorlova/CaloGAN/data/gamma.hdf5'
+electron: '/Users/elenaorlova/data/girlpower.h5'
